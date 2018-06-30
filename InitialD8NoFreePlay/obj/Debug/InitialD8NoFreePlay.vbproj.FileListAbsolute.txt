@@ -1,0 +1,11 @@
+e:\users\barry\documents\visual studio 2015\Projects\InitialD8NoFreePlay\InitialD8NoFreePlay\bin\Debug\InitialD8NoFreePlay.exe.config
+e:\users\barry\documents\visual studio 2015\Projects\InitialD8NoFreePlay\InitialD8NoFreePlay\obj\Debug\InitialD8NoFreePlay.vbprojResolveAssemblyReference.cache
+e:\users\barry\documents\visual studio 2015\Projects\InitialD8NoFreePlay\InitialD8NoFreePlay\obj\Debug\InitialD8NoFreePlay.frmTrainer.resources
+e:\users\barry\documents\visual studio 2015\Projects\InitialD8NoFreePlay\InitialD8NoFreePlay\obj\Debug\InitialD8NoFreePlay.Resources.resources
+e:\users\barry\documents\visual studio 2015\Projects\InitialD8NoFreePlay\InitialD8NoFreePlay\obj\Debug\InitialD8NoFreePlay.vbproj.GenerateResource.Cache
+e:\users\barry\documents\visual studio 2015\Projects\InitialD8NoFreePlay\InitialD8NoFreePlay\obj\Debug\InitialD8NoFreePlay.xml
+e:\users\barry\documents\visual studio 2015\Projects\InitialD8NoFreePlay\InitialD8NoFreePlay\bin\Debug\InitialD8NoFreePlay.exe
+e:\users\barry\documents\visual studio 2015\Projects\InitialD8NoFreePlay\InitialD8NoFreePlay\bin\Debug\InitialD8NoFreePlay.pdb
+e:\users\barry\documents\visual studio 2015\Projects\InitialD8NoFreePlay\InitialD8NoFreePlay\bin\Debug\InitialD8NoFreePlay.xml
+e:\users\barry\documents\visual studio 2015\Projects\InitialD8NoFreePlay\InitialD8NoFreePlay\obj\Debug\InitialD8NoFreePlay.exe
+e:\users\barry\documents\visual studio 2015\Projects\InitialD8NoFreePlay\InitialD8NoFreePlay\obj\Debug\InitialD8NoFreePlay.pdb
